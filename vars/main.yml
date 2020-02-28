@@ -1,2 +1,4 @@
----
-# vars file for helk-elasticsearch
+cluster.name: helk-cluster
+node.name: helk-1
+xpack.license.self_generated.type: basic
+xpack.security.enabled: false
